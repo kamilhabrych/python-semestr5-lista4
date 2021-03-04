@@ -43,7 +43,7 @@ Wyświetl też sinusy liczb od 1 do 20 (funkcja sin jest w module math)
 (Uwaga! Zamiast sqrt można też użyć potęgi ** np. 2**0.5 dla √
 2)
 
-7) Oblicz sumę:
+(7) Oblicz sumę:
 s = 1 + 1
 2
 2 +
